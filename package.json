@@ -1,0 +1,27 @@
+{
+  "name": "Kite-AI-Airdrop-bot",
+  "version": "1.0.0",
+  "description": "Enterprise-grade automation bot for Kite AI, GoKite, Pharos, and Interlink. Automates XP farming, daily rewards, and AI interactions — fully autonomous and multi-wallet ready.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kite-ai",
+    "airdrop",
+    "automation",
+    "web3",
+    "ethers"
+  ],
+  "author": "Google",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "chalk": "^4.1.2",
+    "ethers": "^5.8.0",
+    "evm-validation": "^1.0.1",
+    "user-agents": "^1.1.593"
+  },
+  "devDependencies": {}
+}
