@@ -11,7 +11,7 @@ const logger = {
   banner: () => {
     console.log(chalk.cyan.bold(`
 ---------------------------------------------
-     Kite AI Automation Bot - YetiDAO 
+      Kite AI Airdrop - Automation Bot
 ---------------------------------------------\n
 `));
   }
